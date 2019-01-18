@@ -15,7 +15,7 @@ These files are passed through the following steps: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `}`</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `}`</br>
 4.A cosine value generation and document retrieval tool.
-&nbsp;&nbsp;These are the top three results for the following query: </br>  `the` `crystallin` `len` `vertebr` `includ` `human`</br></br></br>
+&nbsp;&nbsp;These are the top three results for the following query on the medline collection: </br>  `the` `crystallin` `len` `vertebr` `includ` `human`</br></br></br>
 &nbsp; `Document Name : doc72.stp and cosine value : 0.357`</br>
 &nbsp; `Document Name : doc500.stp and cosine value : 0.284`</br>
 &nbsp; `Document Name : doc965.stp and cosine value : 0.265`</br>
