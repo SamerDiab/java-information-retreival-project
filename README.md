@@ -23,5 +23,15 @@ These files are passed through the following steps: </br>
 5. A precision and recall calculation tool. 
     These are the graphs showing the values of the precision and recall for the first query results of the medline collection. 
     
-    [logo]: https://github.com/SamerDiab/java-information-retrieval-project/blob/master/precision%20and%20recall%20graph.png ""
+ ## Precsion and Recall </br>
+ ![PrecisionAndRecall](https://github.com/SamerDiab/java-information-retrieval-project/blob/master/precision%20and%20recall%20graph.png)
+    
+ ## Average precision per recall</br>
+  ![AvgPrecisionAndRecall](https://github.com/SamerDiab/java-information-retrieval-project/blob/master/average%20precision%20and%20recall%20curve.png)
 
+</br>
+
+The code performs well on older machines, averaging on 28 seconds for the entire process. The tool is still a work in progress. It will be optimized. </br>
+
+With the custom json data structure, we can convert this project into a firebase project for optimizing performance speed. </br>
+The code utilizes multiple coding concepts. Like multithreading, concurrent skip list maps, hashmaps, hastables and iterators.</br>
