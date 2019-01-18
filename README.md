@@ -23,4 +23,5 @@ These files are passed through the following steps: </br>
 5. A precision and recall calculation tool. 
     These are the graphs showing the values of the precision and recall for the first query results of the medline collection. 
     
-    ![alt text](http://samerdiab.net/fileshare/download.php?id=21&token=EX6vinkYQR2ALS35vrteXRRpq5A7kN0O"Logo Title Text 1")
+    [logo]: https://github.com/SamerDiab/java-information-retrieval-project/blob/master/precision%20and%20recall%20graph.png ""
+
