@@ -1,7 +1,7 @@
 # java-information-retrieval-project
 This project is a demonstration for a information retrieval tool. 
 
-Textbank is the folder containing the medline query. </br>
+Textbank is the folder containing the medline files. </br>
 These files are passed through the following steps: </br>
 1. Stopwords remover based on a stoplist file. It generates a .stp file. </br>
 2. Stemmer using the proter algorithym. It generates a .stem file </br>
