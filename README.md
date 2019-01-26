@@ -6,7 +6,7 @@ These files are passed through the following steps: </br>
 1. Stopwords remover based on a stoplist file. It generates a .stp file. </br>
 2. Stemmer using the proter algorithym. It generates a .stem file </br>
 3. A tfidf generation algorythim that stores the values in a inverted file. 
-&nbsp&nbsp;The inverted file has a custom JSON data structure. 
+&nbsp;&nbsp;The inverted file has a custom JSON data structure. 
 `{`</br>
  &nbsp;&nbsp;&nbsp;`"word":{`</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`"1(document frequency)":{`</br>
